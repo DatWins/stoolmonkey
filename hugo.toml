@@ -18,7 +18,8 @@ target = 'static/images'
   avatarSize = "size-m"
   avatarURL = "/images/avatar.webp"
   ShowBackToTopButton = false # true or false for "back to top" button on posts
-  showPostsOnHomePage = "Recent Posts"
+  showPostsOnHomePage = "recent"
+  numberPostsOnHomePage = 3
 
   customHeadHTML = """
     <!-- KaTeX -->
