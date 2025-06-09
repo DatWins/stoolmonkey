@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tangerine-sopapillas-b21ebb.netlify.app/"
 canonifyURLs = true
 defaultContentLanguage = "en"
 enableEmoji = true
