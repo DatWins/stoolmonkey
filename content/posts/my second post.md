@@ -6,6 +6,6 @@ tags:
     - Front Matter
 categories:
     - Hugo
-type: post
+type: "post"
 ---
 what's going on? 
