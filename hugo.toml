@@ -17,7 +17,7 @@ target = 'static/images'
   avatarAltText = "avatar"
   avatarSize = "size-m"
   avatarURL = "/images/avatar.webp"
-  ShowBackToTopButton = true # true or false for "back to top" button on posts
+  ShowBackToTopButton = false # true or false for "back to top" button on posts
   showPostsOnHomePage = "Recent Posts"
 
   customHeadHTML = """
@@ -46,18 +46,7 @@ target = 'static/images'
   # metaKeywords = ["blog", "gokarna", "hugo"]
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
-  socialIcons = [
-    {name = "bluesky", url = "https://bsky.app/profile/stablemilkingstool.co.uk"},
-    {name = "x", url = "https://x.com/MonkeyOfStool"},
-    {name = "youtube", url = "https://www.youtube.com/@AVeryStableMilkingStool"},
-    {name = "twitch", url = "https://www.twitch.tv/verystablemilkingstool"},
-    {name = "discord", url = "https://discord.gg/NDRWjgZkqp"},
-    {name = "reddit", url = "https://www.reddit.com/user/MilkingStool/"},
-    {name = "amazon", url = "https://www.amazon.co.uk/hz/wishlist/ls/1KXIMI7XMSWLS?ref_=wl_share"},
-    {name = "paypal", url = "https://paypal.me/JonesHoward"},
-    {name = "email", url = "mailto:stool@stablemilkingstool.co.uk"}
-  ]
-
+ 
 [menu]
   [[menu.main]]
     name = "Home"
