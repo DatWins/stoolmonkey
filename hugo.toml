@@ -20,7 +20,7 @@ target = 'static/images'
   ShowBackToTopButton = false # true or false for "back to top" button on posts
   showPostsOnHomePage = "recent"
   numberPostsOnHomePage = 3
-  togglePreviousAndNextButtons = false
+  togglePreviousAndNextButtons = true
 
   customHeadHTML = """
     <!-- KaTeX -->
